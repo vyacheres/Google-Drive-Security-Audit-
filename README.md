@@ -27,5 +27,10 @@
 Классификация: Определить критичность данных в файле.
 Изоляция: Изменить настройки доступа на "Ограничено" (Restricted).
 Уведомление: Сообщить ИТ-отделу, если файл содержал пароли или ПДн.
+
+Скриншоты тестирования:
+
 <img width="1280" height="622" alt="image" src="https://github.com/user-attachments/assets/c8fdfa08-78fc-469f-ae3d-9c0e370ae5ff" />
+<img width="1280" height="632" alt="image" src="https://github.com/user-attachments/assets/7d75f6a2-aa49-438d-a80b-e13bb4994f94" />
+
 
